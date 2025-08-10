@@ -1,3 +1,4 @@
+<img width="747" height="334" alt="IMG_0161" src="https://github.com/user-attachments/assets/f9985ef6-f6ba-41d5-97c3-ad5d5fc3ea05" />
 # Vendetta Plugins Template
 This repo contains a template for creating [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins.
 
